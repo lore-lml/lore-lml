@@ -6,10 +6,14 @@ iOS Engineer 📱
 
 I am a software engineer, working as an iOS developer since 2021. I am passionate about clean software architecture to build solid and scalable mobile application.
 
-*   🌍  I'm based in Turin, Italy
-*   🖥️  See my portfolio at [lorenzolimoli.me](http://lorenzolimoli.me)
-*   ✉️  You can contact me at [lorenzo.limoli@outlook.it](mailto:lorenzo.limoli@outlook.it)
-*   🤝  I'm open to collaborating on cool and modern projects### Skills 
+* 🌍  I'm based in Turin, Italy
+* 🖥️  See my portfolio at [lorenzolimoli.me](http://lorenzolimoli.me)
+* ✉️  You can contact me at [lorenzo.limoli@outlook.it](mailto:lorenzo.limoli@outlook.it)
+* 🤝  I'm open to collaborating on cool and modern projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -32,12 +36,8 @@ I am a software engineer, working as an iOS developer since 2021. I am passionat
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/lore-lml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/LorenzoLimoli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/lore-lml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LorenzoLimoli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
